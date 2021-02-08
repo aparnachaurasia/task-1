@@ -1,5 +1,0 @@
-name = input("input the file name- ")
-substring = name.split(".")
-extension = repr(substring[-1])
-if (extension == "'py'"):
-    print("python")
